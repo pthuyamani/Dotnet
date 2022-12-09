@@ -1,0 +1,1 @@
+D:\dotnet-console\.sonarqube\out\0

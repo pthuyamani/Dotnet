@@ -1,0 +1,15 @@
+D:\dotnet-console\bin\Debug\net6.0\dotnet-console.exe
+D:\dotnet-console\bin\Debug\net6.0\dotnet-console.deps.json
+D:\dotnet-console\bin\Debug\net6.0\dotnet-console.runtimeconfig.json
+D:\dotnet-console\bin\Debug\net6.0\dotnet-console.dll
+D:\dotnet-console\bin\Debug\net6.0\dotnet-console.pdb
+D:\dotnet-console\obj\Debug\net6.0\dotnet-console.csproj.AssemblyReference.cache
+D:\dotnet-console\obj\Debug\net6.0\dotnet-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet-console\obj\Debug\net6.0\dotnet-console.AssemblyInfoInputs.cache
+D:\dotnet-console\obj\Debug\net6.0\dotnet-console.AssemblyInfo.cs
+D:\dotnet-console\obj\Debug\net6.0\dotnet-console.csproj.CoreCompileInputs.cache
+D:\dotnet-console\obj\Debug\net6.0\dotnet-console.dll
+D:\dotnet-console\obj\Debug\net6.0\refint\dotnet-console.dll
+D:\dotnet-console\obj\Debug\net6.0\dotnet-console.pdb
+D:\dotnet-console\obj\Debug\net6.0\dotnet-console.genruntimeconfig.cache
+D:\dotnet-console\obj\Debug\net6.0\ref\dotnet-console.dll
